@@ -1,0 +1,218 @@
+body {
+    background-color: rgb(3, 33, 33);
+    margin: 3% 5%;
+}
+
+.sec1 {
+    margin: 5% 0px;
+}
+
+.sec1box img {
+    width: 24vw;
+    margin: 4px;
+    max-height: 25vh;
+}
+
+.sec1text p {
+    opacity: 0.4;
+}
+
+.sec1box {
+    flex-wrap: wrap;
+    flex-basis: 4.2rem;
+}
+
+.sec2 {
+    margin: 69px 4.5%;
+}
+
+
+.sec2 img {
+    float: left;
+    position: relative;
+    margin-bottom: 10%;
+}
+
+
+.sec2text {
+    padding-top: 6%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+}
+
+.sec2text ul {
+    list-style: none;
+
+}
+
+.sec2text ul li {
+    padding-bottom: 2%;
+}
+
+
+.sec2 img {
+    width: 50%;
+    height: 40vh;
+}
+
+.modernbox{
+    margin: 4%;
+}
+
+.modernbox1{
+width: 50%;
+padding-left: 3%;
+}
+
+.modernbox img {
+    width: 50%;
+}
+
+
+.sec3 {
+    flex-direction: column;
+    margin: 55px 0px;
+}
+.sec3down {
+    margin: auto;
+}
+
+.sec3down hr {
+    height: 38px;
+    width: 0px;
+    opacity: 0.4;
+    
+}
+
+.down1{
+    margin:0 60px;
+}
+
+.down1text{
+    padding-right: 10px ;
+}
+
+
+
+
+
+
+.clients {
+    margin: 89px 0px;
+}
+
+.clientbox1,
+.clientbox2 {
+    padding: 2%;
+}
+
+
+.clientname {
+    padding-left: 7px;
+}
+
+.clientbox1 img {
+
+    width: 64px;
+    height: 63px;
+    border-radius: 50px;
+}
+
+
+.clientbox2 img {
+    width: 64px;
+    height: 63px;
+    border-radius: 50px;
+}
+
+.sec4box img{
+    width: 25vw;
+    height: 30vh;
+}
+
+
+
+.newsbox1{
+    max-width: 25vw;
+}
+
+
+
+.sec5up{
+    flex-direction: column;
+    padding-bottom: 5%;
+}
+
+.sec5down{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+
+.sec5down a{
+    text-decoration: none;
+}
+.sec5{
+    padding: 9% 0px;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/img8.jpg);
+    margin-top: 5%;
+    
+    background-repeat: no-repeat;
+    
+    width: 100%;
+}
+
+
+.sec5box1, .sec5box2, .sec5box3, .sec5box4, .sec5box5{
+    margin-right: 26px;
+}
+
+.phone{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.phone i{
+    height: 5vh;
+    width: 27px;
+    color: red;
+}
+
+.social {
+    margin-left: -17%;
+}
+
+
+.social i {
+    width: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.sec5box2 ul{
+    list-style: none;
+} 
+.sec5box3 ul{
+    list-style: none;
+}
+.sec5box4 ul {
+    list-style: none;
+}
+
+.sec5box5 input{
+    margin-top: 9px;
+    padding: 10px 0px;
+    padding-right: 33%;
+    padding-left: 17px;
+    background-color: #5d7656;
+    border: none;
+    color: white;
+}
+
+
+.sec5box5 a{
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: -39%;
+}

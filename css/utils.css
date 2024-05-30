@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.text-yellow{
+    color: yellow;
+    opacity: 0.5;
+}
+
+.text-white{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.back-red{
+    background-color: rgb(4, 35, 62);
+}
+
+.back-yellow{
+    background-color: yellow;
+}
+
+.hazy{
+    opacity: 0.4;
+    color: white;
+}
+
+.back-yellow{
+    background-color: rgb(201, 201, 27);
+    cursor: pointer;
+    border-radius: 9px;
+    border: none;
+    color: white;
+    padding: 7px 26px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.flex-left{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+}
